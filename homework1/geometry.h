@@ -6,7 +6,7 @@ const double pi = 3.1415926535;
 
 class Point {
 private:
-    double x_, y_;
+    int x_, y_;
 
 public:
     Point(int a = 0, int b = 0) :
